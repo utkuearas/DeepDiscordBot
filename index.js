@@ -23,8 +23,7 @@ const yts = require('yt-search');
 const DBL = require("dblapi.js");
 const client = new Client();
 const dbl = new DBL('eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NDQ4NzYyOTEzOTYwNzU3MyIsImJvdCI6dHJ1ZSwiaWF0IjoxNTk0OTY3NzQ4fQ.hrFzA7aoIoY4o2J94NXFIS0sjJ8LdKfSqpQq1hgL7Hw',client);
-const TOKEN = "Njg0NDg3NjI5MTM5NjA3NTcz.XrcgVA.KTfqRW5ZLBL4PoPE30tjHfmNDFg";   //real
-//const TOKEN = "NjMyNjIzNTA0NjUwNTM0OTE0.XreqBw.qT7eFCRfVZVFiYcgwc2kv-MPTDI";
+const TOKEN = "Njg0NDg3NjI5MTM5NjA3NTcz.XrcgVA.KTfqRW5ZLBL4PoPE30tjHfmNDFg";   
 const PREFIX = "?";
 
 const totalRadio = premium_radios.length + free_radios.length + rythm_radios.length
