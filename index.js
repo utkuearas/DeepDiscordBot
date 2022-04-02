@@ -29,8 +29,6 @@ const PREFIX = "?";
 
 const totalRadio = premium_radios.length + free_radios.length + rythm_radios.length
 
-const api = "AIzaSyAAED48Op9G-M1go-A2_8syeOCI80Fo1kE";
-
 
 const cache = redis.createClient();
 
